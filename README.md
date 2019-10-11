@@ -8,17 +8,17 @@ this aasf repository accepts the pull  request
 
 
 
-### Instructions:
+### INSTRUCTIONS:
 =======
-#### Instructions:
+#### INSTRUCTIONS:
 
 
 1. Fork the repository..
 1. Fork the repository........
-
+#### USERS NAME
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
-
+#### PULLING THE REQUEST
 3. Make a Pull Request (PR) via github and it will make u assure to learn github.
 =======
 1. Fork the repository..
@@ -369,7 +369,7 @@ this aasf repository accepts the pull  request
 =======
 - [@kelvinosh](https://github.com/kelvinsoh)
 
-
+- [@sejal8745](https://github.com/sejal8745)
 
 
 
